@@ -2,7 +2,7 @@
 <hr>
 <h3 align="center">I’m a certified Blockchain Developer</h3><br>
 - 🌱 I’m currently working on <b>Smart Contracts (Solidity), Web3.0, DAPPs, Token Standards (ERC20, ERC721)</b><br><br>
-- 📫 How to reach me: mehreen.munsif.ali@gmail.com or https://www.linkedin.com/in/mehreenmunsifali/
+- 📫 How to reach me: **mehreen.munsif.ali@gmail.com** or https://www.linkedin.com/in/mehreenmunsifali/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
