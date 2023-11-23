@@ -1,8 +1,9 @@
 <h2 align="center">👋 Hi, I’m Mehreen Munsif Ali</h2>
 <hr>
 <h3 align="center">I’m a certified Blockchain Developer</h3><br>
+<img align="right" alt="Coding" width="400" src="https://cdn1.kibrispdr.org/data/14/coding-gif-24.gif">
 - 🌱 I’m currently working on <b>Smart Contracts (Solidity), Web3.0, DAPPs, Token Standards (ERC20, ERC721)</b><br><br>
-- 📫 How to reach me: **mehreen.munsif.ali@gmail.com** or https://www.linkedin.com/in/mehreenmunsifali/
+- 📫 How to reach me: <b><u>mehreen.munsif.ali@gmail.com</u></b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
