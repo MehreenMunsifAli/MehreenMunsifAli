@@ -3,7 +3,7 @@
 <h3 align="center">I’m a certified Blockchain Developer</h3><br>
 <img align="right" alt="Coding" width="400" src="https://cdn1.kibrispdr.org/data/14/coding-gif-24.gif">
 - 🌱 I’m currently working on <b>Smart Contracts (Solidity), Web3.0, DAPPs, Token Standards (ERC20, ERC721)</b><br><br>
-- 📫 How to reach me: <b>**mehreen.munsif.ali@gmail.com**</b>
+- 📫 How to reach me: <b>mehreen.munsif.ali@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
